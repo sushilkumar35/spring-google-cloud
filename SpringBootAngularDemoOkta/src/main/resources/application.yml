@@ -1,0 +1,15 @@
+okta:
+  oauth2:
+    client-id: 0oaai2atqVJTjYSqO4x6
+    client-secret: HbfTGDwAuoL_Ctm_lxpCHpctvdic2xGIZYscShUU
+    issuer: https://dev-146155.okta.com/oauth2/default
+    redirect-uri: /oauth2/default
+spring:
+  main:
+    allow-bean-definition-overriding: true
+    
+#server:
+#  servlet:
+#    session:
+ #     timeout: 1m
+    
