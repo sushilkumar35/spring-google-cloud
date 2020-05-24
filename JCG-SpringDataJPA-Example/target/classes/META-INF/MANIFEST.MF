@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: JCG-SpringDataJPA-Example
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: EX_SKumar
+Implementation-Vendor-Id: com.javacodegeeks.example
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/JCG-SpringDa
+ taJPA-Example/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

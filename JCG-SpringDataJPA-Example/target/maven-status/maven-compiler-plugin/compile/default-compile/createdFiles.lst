@@ -1,0 +1,5 @@
+com/javacodegeeks/jpaexample/DataJpaApp.class
+com/javacodegeeks/jpaexample/service/PersonService.class
+com/javacodegeeks/jpaexample/repository/PersonRepository.class
+com/javacodegeeks/jpaexample/service/PersonServiceImpl.class
+com/javacodegeeks/jpaexample/model/Person.class
